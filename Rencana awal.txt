@@ -5,7 +5,13 @@ Perencanaan Awal belajar Programing dengan beberapa cara :
   a. Bagian RPL (Rancangan Perangkat Lunak) :
     - Pembuatan Web Bandung
 3. ikut mempelajarai materi kampus :
-  a. Materi Struktur Data Algoritma :
+  a. Materi Praktikum Dasar-Dasar Pemrograman :
+    - Bubble Sort
+    - Insertion Sort
+    - Looping (for)
+    - Switch Case
+    - Array (Perkalian Matriks)
+  b. Materi Prakrikum Struktur Data Algoritma :
     - Array
     - Linked List
     - Sturck and Pointer
