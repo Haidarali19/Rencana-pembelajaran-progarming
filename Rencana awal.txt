@@ -1,4 +1,13 @@
 Perencanaan Awal belajar Programing dengan beberapa cara :
 1. Belajar Otodidak dari berbagai source
-2. Mengikuti Bootcamp kampus
-3. ikut mempelajarai materi kampus
+  a. mempelajari dari yt : WPU
+2. Mengikuti Bootcamp kampus :
+  a. Bagian RPL (Rancangan Perangkat Lunak) :
+    - Pembuatan Web Bandung
+3. ikut mempelajarai materi kampus :
+  a. Materi Struktur Data Algoritma :
+    - Array
+    - Linked List
+    - Sturck and Pointer
+    - Queue
+    - Devide and Conquer
