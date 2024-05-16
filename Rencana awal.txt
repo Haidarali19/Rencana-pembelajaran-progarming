@@ -2,7 +2,7 @@ Perencanaan Awal belajar Programing dengan beberapa cara :
 1. Belajar Otodidak dari berbagai source
   a. mempelajari dari yt :
     - WPU : https://www.youtube.com/@sandhikagalihWPU
-    - Dicoding Indo : 
+    - Dicoding Indo : https://www.dicoding.com/
 2. Mengikuti Bootcamp kampus :
   a. Bagian RPL (Rancangan Perangkat Lunak) :
     - Pembuatan Web Bandung
@@ -20,4 +20,4 @@ Perencanaan Awal belajar Programing dengan beberapa cara :
     - Queue
     - Devide and Conquer
 4. Bootcamp Luar Kampus :
-  a. ID Camp 2024
+  a. ID Camp 2024 : (Masih belum dibuka hari ini 16/05/2024)
