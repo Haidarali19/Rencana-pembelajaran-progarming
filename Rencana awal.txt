@@ -5,7 +5,7 @@ Perencanaan Awal belajar Programing dengan beberapa cara :
     - Dicoding Indo : https://www.dicoding.com/
 2. Mengikuti Bootcamp kampus :
   a. Bagian RPL (Rancangan Perangkat Lunak) :
-    - Pembuatan Web Bandung
+    - Pembuatan Web Bandung by Decoding
 3. ikut mempelajarai materi kampus :
   a. Materi Praktikum Dasar-Dasar Pemrograman :
     - Bubble Sort
@@ -20,5 +20,5 @@ Perencanaan Awal belajar Programing dengan beberapa cara :
     - Queue
     - Devide and Conquer
 4. Bootcamp Luar Kampus :
-  a. ID Camp 2024 : (Masih belum dibuka hari ini 16/05/2024)
+  a. ID Camp 2024 : https://idcamp.ioh.co.id/ (Web ID Camp 2024 sampai akhir Desember 2024)
   b. ID Camp 2023 :  https://www.instagram.com/idcamp/(ini link instagram idcamp)
